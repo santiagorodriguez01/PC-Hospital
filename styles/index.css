@@ -82,7 +82,7 @@ body{
     font-weight: 500;
     font-size: 80px;
     margin-top: 15vh;
-    -webkit-text-stroke: 3px #003049;
+    -webkit-text-stroke: 3px #b1a58f;
 }
 
 .destacado {
@@ -96,7 +96,7 @@ body{
 
 .destacado:hover {
     color: #FDF0D5;
-    -webkit-text-stroke: 3px #003049;
+    -webkit-text-stroke: 3px #b4aa97;
     transition-duration: 0.8s;
 }
 
