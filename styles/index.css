@@ -44,12 +44,12 @@ nav ul {
 
 nav ul li {
     font-family: 'Oswald', sans-serif;
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 900;
     color: #FDF0D5;
     padding: 5px 20px;
     border: 2px solid #FDF0D5;
-    border-radius: 25px;
+    border-radius: 50px;
     cursor: pointer;
 }
 
